@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c8349e4bcfd47c6bc6c774d27e01fa7, type: 3}
+  m_Name: GameVisualConfig
+  m_EditorClassIdentifier: 
+  asteroids:
+  - {fileID: 5019664029340507088, guid: 32583bb44a2c349a3a589667f3537078, type: 3}
+  - {fileID: 5019664029340507088, guid: 5bf3a27a06a0d4a418d56151a767b8ca, type: 3}
+  bullet: {fileID: 5019664029340507088, guid: 3ed355e65566649fd903e73a6e3a1b01, type: 3}
+  ufo: {fileID: 5019664029340507088, guid: f27431a102adf4f7aa94ca7a9bd7eddf, type: 3}
+  player: {fileID: 5019664029340507088, guid: 1f9ce337e6be5456c82f39f13724e172, type: 3}
+  laser: {fileID: 9207344779816395893, guid: 127648135af16430f8a97c295b9d5fc8, type: 3}
